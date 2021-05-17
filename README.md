@@ -12,4 +12,4 @@ Reach me out 👇
 
 [![Instagram Badge](https://img.shields.io/badge/-emili.calixto-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.Instagram.com/in/emili.calixto/)](https://www.instagram.com/emili.calixto/) [![Gmail Badge](https://img.shields.io/badge/-emilicalixto17@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailtoemilicalixto17@gmail.com)](mailto:emilicalixto17@gmail.com)
 
-[Github stats](https://github-readme-stats.vercel.app/api?username=Emilii77&count_private=true&show_icons=true&theme=shades-of-purple)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Emilii77&count_private=true&show_icons=true&theme=shades-of-purple)
