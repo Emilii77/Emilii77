@@ -6,6 +6,7 @@
 - 📍 Brazilian Nationality (RJ)
 - 👩‍💻Aspiring programmer
 - 🌈Conveying my enthusiasms and creativity wherever I go
+- 16 anos
 
 
 Reach me out 👇
